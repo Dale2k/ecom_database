@@ -11,13 +11,5 @@ router.use('/tags', tagRoutes);
 module.exports = router;
 
 
-//  Product belongs to Category
 
-// Category has many Product
 
-// Product.belongsToMany(Tag, {
-// }
-
-// )
-
-// Tag belongs to many Product
