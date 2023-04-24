@@ -33,9 +33,9 @@ Node seeds/index.js  - load seeds
 Npm start
 
 
-## Screenshots 
+##  Code Assitance:
 
-
+Class materials, especially the mini project, Tutorials point, Coca-Cola abd Starbucks (Caffeine), Stack Overflow, Sequalize website and byjus.com
 
 ## License
 
